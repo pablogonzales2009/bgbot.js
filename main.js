@@ -1,2 +1,2 @@
 const Discord = require('discord.js');
-const testmessages = ["Saab", "Volvo", "BMW"];
+const testmessages = ["example1", "example2", "example3"];
